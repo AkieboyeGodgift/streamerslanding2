@@ -2,7 +2,7 @@
 
 export default function AboutSection() {
   return (
-    <section id="about" className="relative w-full py-24 md:py-32 bg-transparent overflow-hidden">
+    <section id="about" className="relative w-full py-24 md:py-32 bg-black overflow-hidden">
 
       <div className="relative z-10 max-w-4xl mx-auto px-6 md:px-10">
         
